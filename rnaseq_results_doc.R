@@ -1,5 +1,6 @@
 #Author - Yatish B. Patil 
-# This script is used for the RNASeq QC report for red counts, phred quality score, mapping percentage and RNA species.
+# This script is used for the RNASeq QC report for read counts, phred quality score, mapping percentage and RNA species.
+
 rm(list=ls())
 source("http://bioconductor.org/biocLite.R")
 # library
